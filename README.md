@@ -33,5 +33,3 @@ The layout adapts to different screen sizes:
 
 ---
 
-## 📂 Folder Structure
-
